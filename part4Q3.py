@@ -1,4 +1,4 @@
-'''Part 4 Question 3 of HW3'''
+'''Housing Price Prediction: Kaggle Competition'''
 import numpy as np
 from sklearn.linear_model import Ridge
 from sklearn.linear_model import LinearRegression
